@@ -1,0 +1,4 @@
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\service\NacosProviderService.class
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\controller\NacosConsumerFeignController.class
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\NacosConsumerFeignApplication.class
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\service\fallback\NacosProviderFallback.class

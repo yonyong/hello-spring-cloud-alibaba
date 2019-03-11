@@ -1,0 +1,3 @@
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\NacosConsumerApplication.class
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\controller\NacosConsumerController.class
+cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\config\NacosConsumerConfiguration.class

@@ -1,0 +1,4 @@
+E:\mycode\JetBrains_workspace\微服务\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\controller\NacosConsumerFeignController.java
+E:\mycode\JetBrains_workspace\微服务\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\service\NacosProviderService.java
+E:\mycode\JetBrains_workspace\微服务\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\service\fallback\NacosProviderFallback.java
+E:\mycode\JetBrains_workspace\微服务\hello-spring-cloud-alibaba\hello-spring-cloud-alibaba-nacos-consumer-feign\src\main\java\cn\yonyong\hello\spring\cloud\alibaba\nacos\consumer\feign\NacosConsumerFeignApplication.java
